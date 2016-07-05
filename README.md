@@ -65,7 +65,7 @@ resource.rawStream()
 resource.stream()
 ```
 
-### csvToSTream
+### csvToStream
 
 Convenience function to load and convert a CSV to a stream using a [JSON Table Schema][jts] and [CSV Dialect description][dialect].
 
